@@ -1,4 +1,4 @@
-Syncthing Docs
+Syncthing Docs 
 ==============
 
 This repo is the source behind https://docs.syncthing.net/.
